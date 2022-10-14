@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Pizofreude's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Pizofreude
+CAE Engineer, Cyclist, DeFi enthusiast.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="pizofreude@pm.me">pizofreude@pm.me</a>
+| <a href="http://pizofreude.github.io">My Github Pages</a>
 </div>
 
 
@@ -17,12 +17,12 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+FEM Analysis, minting coins, Airdrop farming.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Static analysis of disc brake performance, thermomechanic of brake pad analysis.
 
 
 ## Education
